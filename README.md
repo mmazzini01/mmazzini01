@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Matteo!
 
-<!--
-**mmazzini01/mmazzini01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me  
+I am currently pursuing a **double master's degree in Data Science** at **Universitat Politècnica de Catalunya** and **Università degli Studi di Padova**.  
+I also hold a **bachelor’s degree in Statistics, Finance, and Insurance**.  
 
-Here are some ideas to get you started:
+## 💡 Interests  
+- 🤖 **Machine Learning**  
+- 📊 **Big Data Mining**  
+- 🧠 **Artificial Intelligence**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/your-username)  
+
+---
+
+⭐️ *Inspired by awesome GitHub profiles!*  
