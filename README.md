@@ -2,7 +2,7 @@
 
 ## 🎓 About Me  
 I am currently pursuing a **double master's degree in Data Science** at **Universitat Politècnica de Catalunya** and **Università degli Studi di Padova**.  
-I also hold a **bachelor’s degree in Statistics, Finance, and Insurance** from **Università di Bologna**.  
+I also hold a **bachelor’s degree in Statistics** from **Università di Bologna**.  
 
 ## 💡 Interests  
 I am passionate about **data-driven solutions** and how they can be applied to real-world problems. My main areas of interest include:  
