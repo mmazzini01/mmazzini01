@@ -20,5 +20,5 @@ I am passionate about **data-driven solutions** and how they can be applied to r
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matteo-mazzini-733412268/)  
-[![Email](https://img.shields.io/badge/Email-matteo.mazzini@studenti.unipd.it  -red?style=flat-square&logo=gmail)](matteo.mazzini@studenti.unipd.it)  
+[![Email](https://img.shields.io/badge/matteo.mazzini@studenti.unipd.it  -red?style=flat-square&logo=gmail)](matteo.mazzini@studenti.unipd.it)  
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](matteo.mazzini@estudiantat.upc.edu)  
