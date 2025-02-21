@@ -8,7 +8,7 @@ I also hold a **bachelor’s degree in Statistics** from **Università di Bologn
 I am passionate about **data-driven solutions** and how they can be applied to real-world problems. My main areas of interest include:  
 - 🤖 **Machine Learning** – from classical models to deep learning techniques.  
 - 📊 **Big Data Mining** – extracting valuable insights from large-scale datasets.  
-- 🧠 **Artificial Intelligence** – particularly **LLM's** and its applications 
+- 🧠 **Artificial Intelligence** – particularly **LLMs** and its applications 
 
 ## 🔧 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
